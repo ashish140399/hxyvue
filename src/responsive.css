@@ -81,7 +81,6 @@
 		flex-direction: column;
 		margin-bottom: 20px
 	}
-<<<<<<< HEAD
 		.tooltipout .tooltiptext{
 			right: 14px;
 			top: 26px;
@@ -92,17 +91,5 @@
 		.info{
 			font-size: 14px;
 		}
-=======
-	.tooltipout .tooltiptext{
-		right: 14px;
-    	top: 26px;
-	}
-	.main-sec .row:first-child {
-		margin-bottom: -10px;
-	}
-	.info{
-		font-size: 14px;
-	}
->>>>>>> 2e43f549e53ab2bf0df28f75f25f3fef1e5405f4
 }
 
