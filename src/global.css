@@ -388,3 +388,24 @@ footer{
 .tooltipout:hover .tooltiptext {
   visibility: visible;
 }
+
+
+
+.nav-blck-bx-outer{
+  display: flex;
+  justify-content: space-between;
+}
+.nav-blck-bx-outer ul{
+  margin-right: 20px;
+}
+.nav-blck-bx-outer .nav-link{
+  padding: 6px 12px;
+  font-size: 14px;
+  background: #3d3d3d;
+  color: #a0a0a0;
+  margin-left: 10px;
+}
+.nav-blck-bx-outer .nav-link.active{
+  background: #E2C551 ;
+  color: #fff;
+}
